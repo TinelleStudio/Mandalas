@@ -1,15 +1,10 @@
-# Tinelle Creative Studio 🎨
+# Mandalas Relax — Muestra Gratuita 🎨
 
-¡Bienvenido/a a la carpeta de muestras y recursos digitales!
+¡Gracias por tu interés en nuestra colección!
 
-![Isotipo Tinelle](nombre-de-tu-imagen-logo.png)
+Puedes descargar el archivo PDF con la muestra del libro directamente desde el siguiente enlace:
 
----
-
-### 📄 Descargar Muestras Gratuitas
-
-* [Descargar Muestra de Mandalas (PDF)](./mandalas-tinelle.pdf)
-* [Ver Catálogo de Papelería (PDF)](./catalogo.pdf)
+👉 **[Descargar Muestra Mandalas Relax (PDF)](./mandalas-relax.pdf)**
 
 ---
-© 2026 Tinelle Creative Studio. Todos los derechos reservados.
+*Tinelle Creative Studio*
